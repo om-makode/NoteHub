@@ -18,19 +18,19 @@ Users can securely access their accounts.
 ![image alt](https://github.com/om-makode/NoteHub/blob/6a8d33613f61acc6b12b6ef7b678e525a599b84a/images/Screenshot%202025-01-13%20225309.png)
 
 
-User Dashboard
+# User Dashboard
 
 Displays notes uploaded by various users.
 
 ![image alt](https://github.com/om-makode/NoteHub/blob/6a8d33613f61acc6b12b6ef7b678e525a599b84a/images/user%20dashboard.png)
 
-Upload Notes
+# Upload Notes
 Users can upload notes categorized by subject.
 
 ![image alt](https://github.com/om-makode/NoteHub/blob/6a8d33613f61acc6b12b6ef7b678e525a599b84a/images/Screenshot%202025-01-13%20222821.png)
 
 
-Edit Profile
+# Edit Profile
 Users can update their profile, including profile image, name, email, bio, and password.
 
 ![image alt](https://github.com/om-makode/NoteHub/blob/6a8d33613f61acc6b12b6ef7b678e525a599b84a/images/Screenshot%202025-01-13%20222404.png)
@@ -51,7 +51,7 @@ Once approved by the admin, users can view the notes; otherwise, they remain ina
 ![image alt](https://github.com/om-makode/NoteHub/blob/6a8d33613f61acc6b12b6ef7b678e525a599b84a/images/user%20dashboard.png)
 
 
-DATABASE
+# DATABASE
 
 ![image alt](https://github.com/om-makode/NoteHub/blob/6a8d33613f61acc6b12b6ef7b678e525a599b84a/images/Screenshot%202025-01-13%20230553.png)
 
